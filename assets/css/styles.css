@@ -24,7 +24,7 @@ body {
   
   #timer {
     position: absolute;
-    color: #1aaa0d;
+    color: gold;
     top: 14px;
     right: 14px;
     font-size: 180%;
@@ -103,9 +103,9 @@ body {
   }
   
   li:nth-child(even) {
-    background-color: #f06565;
+    background-color: pink;
   }
   
   li:nth-child(odd) {
-    background-color: #59e44c;
+    background-color: lightskyblue;
   }
