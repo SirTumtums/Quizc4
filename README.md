@@ -1,5 +1,5 @@
 # Quizc4
-# CHallenge 4
+# Challenge 4
 
 ## Description
 
@@ -7,3 +7,4 @@ This is an app for to showcase my uderstanding of basic javascript, DOM traversi
 
 ## Usage
 Click the link below and hit the "Start" button to begin. Button to view ranks is on the top left and timer is on the right.
+![image](https://github.com/SirTumtums/Quizc4/blob/main/quizc4.png)
