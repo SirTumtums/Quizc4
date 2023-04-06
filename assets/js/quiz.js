@@ -1,6 +1,6 @@
 // variables for progress in quiz
 let currentQuestionIndex = 0;
-let time = quizQuestions.length * 15;
+let time = quizQuestions.length * 12;
 let timer;
 
 // global DOM variables
