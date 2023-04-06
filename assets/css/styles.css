@@ -1,0 +1,111 @@
+body {
+    background-color: #1D1F20;
+    color: lightslategray;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1, h2 {
+    font-size: 180%;
+  }
+  
+  p {
+    font-size: 130%;
+  }
+  
+  #ranks a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 180%;
+  }
+  
+  #ranks a:hover {
+    color: gold;
+  }
+  
+  #timer {
+    position: absolute;
+    color: #1aaa0d;
+    top: 14px;
+    right: 14px;
+    font-size: 180%;
+  }
+  
+  button {
+    display: inline-block;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 7px;
+    font-size: 145%;
+    background-color: crimson;
+    padding: 2px 10px;
+    color: #ffffff;
+  }
+  
+  button:hover {
+    background-color: green;
+  }
+  
+  .box {
+    margin: 50px auto 0 auto;
+    max-width: 500px;
+  }
+  
+  .hide {
+    display: none;
+  }
+  
+  #options button {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+  }
+  
+  .response-right {
+    font-weight: bold;
+    font-size: 180%;
+    text-decoration: underline;
+    text-align: center;
+    margin: 4px 0;
+    padding: 15px 0;
+    color: #1aaa0d;
+  }
+  
+  .response-wrong {
+    font-weight: bold;
+    font-size: 180%;
+    text-decoration: underline;
+    text-align: center;
+    margin: 4px 0;
+    padding: 15px 0;
+    color: #f82121;
+  }
+  
+  #score {
+    color: #1aaa0d;
+    font-weight: bold;
+    font-size: 130%;
+  }
+  
+  #initials {
+    font-size: 115%;
+  }
+  
+  ol {
+    border-radius: 8px;
+  }
+  
+  li {
+    font-weight: bold;
+    font-size: 150%;
+    border-radius: 20px;
+    padding: 5px;
+  
+  }
+  
+  li:nth-child(even) {
+    background-color: #f06565;
+  }
+  
+  li:nth-child(odd) {
+    background-color: #59e44c;
+  }
