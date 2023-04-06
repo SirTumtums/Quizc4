@@ -3,7 +3,7 @@
 
 ## Description
 
-This website was designed to test users with a quiz on JavaScript fundamentals through a series of five questions. After finishing the quiz, the user can upload their score to the leaderboards by supplying their initials. This was built using html, css, and javascript and focused on APIs and traversing the DOM.
+This is an app for to showcase my uderstanding of basic javascript, DOM traversing, and a hint of api. The quiz contains questions about CSS, HTML, and Javascript. At the end of the quiz, users can enter initials and it will be saved to local storage for them to see later.
 
 ## Usage
 Click the link below and hit the "Start" button to begin. Button to view ranks is on the top left and timer is on the right.
